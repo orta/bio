@@ -6,7 +6,7 @@ There are a few options depending on your target audience:
 
 General Tech / OSS scale focused
 
-> Orta is a developer/designer who works on the TypeScript compiler team at Microsoft. He's worked on very large scale open source projects across the Ruby, iOS and Node ecosystems for the last decade, ranging from CocoaPods to Danger. He's an active Open Source contributor that GitHub follows him on twitter.
+> Orta is a developer/designer who works on the TypeScript compiler team at Microsoft. He's worked on very large scale open source projects across the Ruby, iOS and Node ecosystems for the last decade, ranging from CocoaPods to Danger. He's such an active Open Source contributor that GitHub follows him on twitter.
 
 iOS Eco-system Focused
 
