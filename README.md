@@ -16,6 +16,12 @@ JS Eco-system Focused
 
 > Orta is an developer/designer who works on web-powered games. Prior to that he worked on the TypeScript team in Microsoft. He has a decade of open source contributions ranging across many eco-systems, helps maintain a dependency manager for iOS, built Danger in many languages, contributes to working groups like GraphQL and in core teams like Jest, Svelte and React Native. You've probably seen his open source design work in the React/TypeScript ecosystem.
 
+### Links
+
+- Homepage: https://orta.io
+- Twitter: https://twitter.com/orta
+- GitHub: https://github.com/orta
+
 ### Location
 
 Dublin, Ireland
